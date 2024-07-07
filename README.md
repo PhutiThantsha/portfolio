@@ -6,5 +6,5 @@ Welcome to my data science portfolio repository. Here, I showcase a collection o
 ## Education 
 Pgdip in data Science, University of witwatersrand
 
-#Projects 
+### Projects
 
