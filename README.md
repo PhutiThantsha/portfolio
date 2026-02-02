@@ -21,7 +21,7 @@ Evaluated the EDG prepaid product to understand customer usage behaviour,
 engagement patterns, and interaction with other prepaid bundles.
 
 🔗 Repository:
-https://github.com/PhutiThantsha/edg-xtratime-product-performance
+https://github.com/PhutiThantsha/edg-product-performance-analysis
 
 ---
 
